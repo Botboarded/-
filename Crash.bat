@@ -3,3 +3,5 @@
 echo Good luck ;)
 start %~f0
 goto loop
+
+cmd /k
